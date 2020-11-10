@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154987788694",
+    "firebase_url": "https://myofficesports.firebaseio.com",
+    "project_id": "myofficesports",
+    "storage_bucket": "myofficesports.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154987788694:android:ffe890f3fc793271a585b7",
+        "android_client_info": {
+          "package_name": "com.codepath.myofficesports"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154987788694-jjm5al06pvqb51b2spgva6mu83k8e5ec.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.codepath.myofficesports",
+            "certificate_hash": "0ad228cf694d9b6fcd1b301f390c52fd705be0d1"
+          }
+        },
+        {
+          "client_id": "154987788694-710iesqg6mk34u0ah8okoeau2ktder56.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCeHrY2b5kHIu_iRt9Y21Mxry92SsG0qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154987788694-710iesqg6mk34u0ah8okoeau2ktder56.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
